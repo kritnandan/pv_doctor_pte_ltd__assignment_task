@@ -45,5 +45,3 @@ Built with **Streamlit**, the app provides:
 - Date range filtering
 - Real-time graph generation
 - File upload capabilities
-
-## Repository Structure
